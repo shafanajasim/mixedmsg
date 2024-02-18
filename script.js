@@ -1,0 +1,3 @@
+let randomMessages = ['Verily,with hardship there is ease','patience is a pillar of faith','do not speak harshly or rudely','the doors of repentance are always open','And it is He who created the night and day, and the sun and moon','If you want to focus more on Allah in your prayers, focus more on Him outside your prayers.'];
+let randomquote = Math.floor(Math.random()* (randomMessages.length));
+console.log('your random quotes is:'+rrandomMessages[randomquote]);
